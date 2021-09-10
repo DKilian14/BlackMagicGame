@@ -1,0 +1,23 @@
+Welcome to the Black Magic Game!
+
+How to Play:
+
+'Player 1' does not know how black magic works
+The 'Black Magic Guru' does know how black magic works
+the 'Computer' does know how black magic works
+
+
+'Player 1' will look around the room and choose an item they want the Magic Guru to guess.
+
+The 'Computer' will ask the 'Magic Guru' if random items are the item 'Player 1' chose.
+
+The 'Magic Guru' wins the game if they correctly guess the item 'Player 1' chose.
+
+*Note
+
+    The list of items in the 'Itemlist' module is for a specific room. To customize the game, add your own items and corresponding colors
+    found within the room you are in.
+
+        *Note
+
+            Make sure you use the same formatting (no CAPS) when revising the 'ItemList' or answering the 'Computer'.
